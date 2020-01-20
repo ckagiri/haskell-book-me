@@ -1,2 +1,2 @@
 # haskell-book-me
-notes discussions solution on haskell book
+solutions to haskell book
